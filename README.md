@@ -2,7 +2,7 @@
 Name : Aneesbashan J
 Reference number:212223050006
 ```
-# Exp 6-Synchornous counters up counter and down counter 
+# Exp 7-Synchornous counters up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
