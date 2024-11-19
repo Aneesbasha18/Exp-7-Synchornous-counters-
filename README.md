@@ -1,6 +1,6 @@
 ```
 Name : Aneesbashan J
-Reference number:23003943
+Reference number:212223050006
 ```
 # Exp 6-Synchornous counters up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
